@@ -1,0 +1,10 @@
+  532  git add opticalflow.py 
+  533  git commit -m "opticalflow1.0.0"
+  534  git log
+  535  git commit --amend
+  536  git log
+  537  git branch
+  538  git status
+  539  git remote add origin https://github.com/hmercuryg/Image_Processing.git
+  540  git push origin master
+  541  history | tail > history.txt
