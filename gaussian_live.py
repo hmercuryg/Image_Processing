@@ -10,3 +10,7 @@ while True:
 	cv2.imshow('camera blur',blur)
 	if cv2.waitKey(10) == 27:
 		break
+
+cap.release()
+cv2.destroyAllWindows()
+

@@ -1,4 +1,4 @@
-""" This color tracking program is made by M. 0z4w4 @ k1nk1 un1v """
+""" This color tracking program is made by _. __4__ @ ____1 __1_ """
 import numpy as np
 import cv2
 import sys
