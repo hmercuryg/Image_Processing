@@ -1,3 +1,4 @@
+# work like a mirror
 import numpy as np
 import cv2
 

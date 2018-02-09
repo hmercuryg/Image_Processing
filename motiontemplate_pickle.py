@@ -1,3 +1,4 @@
+# make pickle file, coded file, of motiontemplate
 import time
 import sys
 import math

@@ -1,3 +1,5 @@
+# save movie file opticalflowed
+
 import sys
 import cv2
 from numpy import *

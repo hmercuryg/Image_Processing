@@ -5,6 +5,6 @@
   536  git log
   537  git branch
   538  git status
-  539  git remote add origin https://github.com/hmercuryg/Image_Processing.git
+  539  git remote add origin https://github.com/hmercuryg/Image_Processing.git # This may need at the 1st time
   540  git push origin master
   541  history | tail > history.txt

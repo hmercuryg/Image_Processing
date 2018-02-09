@@ -1,3 +1,5 @@
+# Apply Gaussian filter to live movie
+
 import cv2
 
 cap = cv2.VideoCapture(0)

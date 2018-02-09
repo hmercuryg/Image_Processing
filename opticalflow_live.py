@@ -1,3 +1,4 @@
+# Apply opticalflow to live movie from camera on your laptop
 import sys
 import cv2
 import numpy as np

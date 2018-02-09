@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-face_cascade = cv2.CascadeClassifier('/Users/hmercuryg/tools/opencv/data/haarcascades/haarcascade_frontalface_default.xml')
-eye_cascade = cv2.CascadeClassifier('/Users/hmercuryg/tools/opencv/data/haarcascades/haarcascade_eye.xml')
+face_cascade = cv2.CascadeClassifier('./opencv/data/haarcascades/haarcascade_frontalface_default.xml')
+eye_cascade = cv2.CascadeClassifier('./opencv/data/haarcascades/haarcascade_eye.xml')
 
 cap = cv2.VideoCapture(0)
 

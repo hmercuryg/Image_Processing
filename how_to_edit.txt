@@ -1,10 +1,10 @@
   630  git status
   631  git log
   632  git rebase -i c2fef315a36e63a2f7e134
-  633  git rebase --abort
+  633  git rebase --abort # remove a commit comment
   634  git log
   635  git rebase -i 228401c5ae93e3a1497957e0
-  636  git commit --amend
+  636  git commit --amend # add a commit comment
   637  git rebase --continue
   638  git log
   639  history | tail > how_to_edit.txt
